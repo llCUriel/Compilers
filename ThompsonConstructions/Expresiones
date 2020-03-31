@@ -1,0 +1,15 @@
+a
+a|b
+a|b|c
+a|b|c|d|e|f|g|h|i|j|k
+ab
+abc
+abcdefgh
+a*
+a+
+a+|b+
+a+b+
+c|a*|b*
+a+|b+|c+|d+|e+|f+
+(a+)+
+(a+|(abcd)|(abcdefg)|(a+b+c+d+))(a+|(abcd)|(abcdefg)|(a+b+c+d+))(abcde)|h|u|j|h|n|m|n(abcd)

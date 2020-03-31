@@ -1,0 +1,6 @@
+digraph AFN{
+rankdir = LR;
+node[shape=circle, style="filled", fixedsize=true,width=0.2, color="#FFF7A8", fontsize=8]
+F[color="blue", shape="doublecircle", style="filled"]I[color="white", shape="doublecircle", style="filled", fontcolor="white"]edge [ fontname=Arial, fontcolor=blue, fontsize=8 ];
+node [style=filled fillcolor="#00ff005f"];
+I -> EI0 [label = "Inicial", color="blue"]EI0 -> E1 [label = "a", color="red"]EI0 -> EI0 [label = "b", color="red"]E1 -> E1 [label = "a", color="red"]E1 -> E2 [label = "b", color="red"]E2 -> E1 [label = "a", color="red"]E2 -> F [label = "b", color="red"]F -> E1 [label = "a", color="red"]F -> EI0 [label = "b", color="red"]}
