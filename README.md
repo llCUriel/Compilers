@@ -2,14 +2,22 @@
 
 ## Thompson Constructions
 
-<p align="center"> <img src="ss/AFD00.png" width="35%"></p>
-<p align="center"> <img src="ss/AFD1.png" width="50%"></p>
-<p align="center"> <img src="ss/AFD22.png" width="50%"></p>
-<p align="center"> <img src="ss/AFD33.png" width="50%"></p>
-<p align="center"> <img src="ss/AFD44.png" width="50%"></p>
-<p align="center"> <img src="ss/AFD55.png" width="50%"></p>
-<p align="center"> <img src="ss/AFD66.png" width="50%"></p>
-<p align="center"> <img src="ss/AFD77.png" width="50%"></p>
-<p align="center"> <img src="ss/AFD88.png" width="50%"></p>
-<p align="center"> <img src="ss/AFD99.png" width="50%"></p>
-<p align="center"> <img src="ss/ZAFD10.png" width="50%"></p>
+Regex = a
+<p align="center"> <img src="ss/output0.png" width="50%"></p>
+Regex = a|b
+<p align="center"> <img src="ss/output1.png" width="50%"></p>
+Regex = ab
+<p align="center"> <img src="ss/output2.png" width="50%"></p>
+Regex = a*
+<p align="center"> <img src="ss/output3.png" width="50%"></p>
+Regex = a+
+<p align="center"> <img src="ss/output4.png" width="50%"></p>
+Regex = a|b|c|d|e|f|g
+<p align="center"> <img src="ss/output5.png" width="100%"></p>
+Regex = (a+|b+)(cd|o+)
+<p align="center"> <img src="ss/output6.png" width="100%"></p>
+
+## Regex to AFD
+
+Regex = a|b
+<p align="center"> <img src="ss/AFD00.png" width="50%"></p>
