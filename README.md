@@ -62,8 +62,11 @@ Mfcalc Main
 SubC-Compiler
 
 Compilation Steps 
-	$ lex c.l
-	$ yacc c.y
-	$ gcc y.tab.c -ll -ly 
-	$ ./a.out [filename]
+<ul>
+  <li>	$ lex subc-compiler.l</li>
+  <li>  $ yacc subc-compiler.y</li>
+  <li>  $ gcc y.tab.c -ll -ly </li>
+  <li>  $ ./a.out [filename] </li>
+
+</ul>
 
