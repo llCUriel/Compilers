@@ -30,7 +30,7 @@ Regex = a+
 Regex = a+|b+
 <p align="center"> <img src="ss/AFD44.png" width="50%"></p>
 Regex = (a+|b+)cd
-<p align="center"> <img src="ss/AFD55.png" width="50%"></p>
+<p align="center"> <img src="ss/AFD55.png" width="100%"></p>
 Regex = (a+|b+)cd(a+b+)
 <p align="center"> <img src="ss/AFD66.png" width="100%"></p>
 
