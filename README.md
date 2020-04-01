@@ -21,3 +21,32 @@ Regex = (a+|b+)(cd|o+)
 
 Regex = a|b
 <p align="center"> <img src="ss/AFD00.png" width="50%"></p>
+Regex = ab
+<p align="center"> <img src="ss/AFD1.png" width="50%"></p>
+Regex = a*
+<p align="center"> <img src="ss/AFD22.png" width="50%"></p>
+Regex = a+
+<p align="center"> <img src="ss/AFD33.png" width="50%"></p>
+Regex = a+|b+
+<p align="center"> <img src="ss/AFD44.png" width="50%"></p>
+Regex = (a+|b+)cd
+<p align="center"> <img src="ss/AFD55.png" width="50%"></p>
+Regex = (a+|b+)cd(a+b+)
+<p align="center"> <img src="ss/AFD66.png" width="50%"></p>
+Regex = ((git)|(hub)|(github*)|(c+o+v*i*d+1*9))
+<p align="center"> <img src="ss/AFD77.png" width="50%"></p>
+Regex = (c+o+r+o+n+a+v+i+r+u+s+)|(c+o+v+i+d+1+9+)
+<p align="center"> <img src="ss/AFD88.png" width="50%"></p>
+Regex = ((a+|bcde)|(a+|b+|c+)trertr+)|(a|b|c|d+)|(ok)|m+|n+|(jytrde+)|m|n|njytrer
+<p align="center"> <img src="ss/AFD99.png" width="50%"></p>
+
+
+
+
+
+
+
+
+
+
+
