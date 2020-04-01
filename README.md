@@ -33,8 +33,8 @@ Regex = (a+|b+)cd
 <p align="center"> <img src="ss/AFD55.png" width="100%"></p>
 Regex = (a+|b+)cd(a+b+)
 <p align="center"> <img src="ss/AFD66.png" width="100%"></p>
-
-
+Regex = (c+o+r+o+n+a+v+i+r+u+s+)|(c+o+v+i+d+1+9+)
+<p align="center"> <img src="ss/ZAFD10.png" width="100%"></p>
 
 
 
