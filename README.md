@@ -34,9 +34,7 @@ Regex = (a+|b+)cd
 Regex = (a+|b+)cd(a+b+)
 <p align="center"> <img src="ss/AFD66.png" width="100%"></p>
 Regex = (c+o+r+o+n+a+v+i+r+u+s+)|(c+o+v+i+d+1+9+)
-<p align="center"> <img src="ss/AFD88.png" width="100%"></p>
-Regex = ((git)|(hub)|(github*)|(c+o+v*i*d+1*9))
-
+<p align="center"> <img src="ss/ZAFD10.png" width="100%"></p>
 
 
 
