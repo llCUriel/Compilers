@@ -42,22 +42,22 @@ Regex = ((git)|(hub)|(github*)|(c+o+v*i*d+1*9))
 ## Multi-Function Calculator: mfcalc
 
 Mfcalc
-<p align="center"> <img src="ss/Mfcalc/mfcalc.png" width="50%"></p>
+<p align="center"> <img src="ss/Mfcalc/mfcalc.png" width="40%"></p>
 
 Declaration for mfcalc
-<p align="center"> <img src="ss/Mfcalc/Declarationformfcalc.png" width="50%"></p>
+<p align="center"> <img src="ss/Mfcalc/Declarationformfcalc.png" width="70%"></p>
 
 mfcalc Lexer
-<p align="center"> <img src="ss/Mfcalc/mfcalcLexer.png" width="50%"></p>
+<p align="center"> <img src="ss/Mfcalc/mfcalcLexer.png" width="70%"></p>
 
 Grammar Rules
-<p align="center"> <img src="ss/Mfcalc/grammarrules.png" width="50%"></p>
+<p align="center"> <img src="ss/Mfcalc/grammarrules.png" width="70%"></p>
 
 Symbol Table
-<p align="center"> <img src="ss/Mfcalc/symboltable.png" width="50%"></p>
+<p align="center"> <img src="ss/Mfcalc/symboltable.png" width="70%"></p>
 
 Mfcalc Main
-<p align="center"> <img src="ss/Mfcalc/mfcalcmain.png" width="50%"></p>
+<p align="center"> <img src="ss/Mfcalc/mfcalcmain.png" width="70%"></p>
 
 
 
