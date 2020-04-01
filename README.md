@@ -59,6 +59,11 @@ Symbol Table
 Mfcalc Main
 <p align="center"> <img src="ss/Mfcalc/mfcalcmain.png" width="70%"></p>
 
+SubC-Compiler
 
-
+Compilation Steps 
+	$ lex c.l
+	$ yacc c.y
+	$ gcc y.tab.c -ll -ly 
+	$ ./a.out [filename]
 
