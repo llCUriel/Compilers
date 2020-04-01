@@ -48,7 +48,7 @@ Declaration for mfcalc
 <p align="center"> <img src="ss/Mfcalc/Declarationformfcalc.png" width="70%"></p>
 
 mfcalc Lexer
-<p align="center"> <img src="ss/Mfcalc/mfcalcLexer.png" width="70%"></p>
+<p align="center"> <img src="ss/Mfcalc/mfcalcLexer.png" width="50%"></p>
 
 Grammar Rules
 <p align="center"> <img src="ss/Mfcalc/grammarrules.png" width="70%"></p>
